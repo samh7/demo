@@ -1,0 +1,4 @@
+Harry, Gryffindor
+Hermione, Slytherin
+Ron, Slytherin
+Draco, Gryffindor

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width initial-scale=1"> 
+        <script>
+            document.addEventListener("DOMContentLoaded", ()=>{
+                fetch("exchange.json")
+                .then(response => response.json())
+                .then(data => {
+                    console.log(data)
+                })
+            })
+
+            // x = 0.232423432423 
+            // x.toFixed(3) is equal to 0.232
+        </script>
+    </head>
+    <body>
+    <title></title>
+    </body>
+</html>

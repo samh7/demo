@@ -1,0 +1,19 @@
+[
+  "test/test_bank.py::test_1",
+  "test/test_bank.py::test_2",
+  "test/test_bank.py::test_3",
+  "test/test_fuel.py::test_1",
+  "test/test_fuel.py::test_2",
+  "test/test_hello.py::test_argument",
+  "test/test_hello.py::test_default",
+  "test/test_plate.py::test_1",
+  "test/test_plate.py::test_2",
+  "test/test_plate.py::test_3",
+  "test/test_plate.py::test_4",
+  "test/test_twitter.py::test_1",
+  "test/test_twitter.py::test_2",
+  "test/test_twitter.py::test_3",
+  "test_hello.py::test_argument",
+  "test_hello.py::test_default",
+  "test_hello.py::test_hello"
+]

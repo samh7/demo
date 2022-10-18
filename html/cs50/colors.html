@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width initial-scale=1"> 
+    <title>Hello</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {//=> is used instead of function()
+            document.querySelectorAll("button").forEach( button => {
+                button.onclick = function() {
+                    document.querySelector("#hello").style.color = button.dataset.color
+                }
+            })
+        })
+        
+    </script>
+    </head>
+    <body>
+        <h1 id="hello">Hello!</h1>
+        <option value = "red">Red</button>
+        <option value = "blue">Blue</button>
+        <option value = "green">Green</button>
+        <option value = "Maroon">Maroon</button>
+        <option value = "Orange">Orange</button>
+
+        </body>
+</html>

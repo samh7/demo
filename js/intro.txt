@@ -1,0 +1,31 @@
+js interpreted
+it runs directly on the browser
+the syntax in standardized by ECMAScript
+primitive types(no methods and immutable):
+    1.undefined
+    2.nll
+    3.number
+    4.string
+    5.(symbol)
+    6.boolean
+
+typecasting(coercion):
+    changing from 1 type to another 
+    == - this coerces the types
+    === - equivalent operator
+
+Falsy values in js:
+    1.undefined
+    2. null
+    3. +0, -0, NaN
+    4. false
+    5. idk
+
+prototype inheritance:
+
+
+the javascript first reads through the whole code looking for errors
+variables and functions are hoisted in this process
+
+closures are functions that refer to variables(only occurs with vars) declared by variable functions
+closures may be caused by scoping

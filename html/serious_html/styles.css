@@ -1,0 +1,39 @@
+.welcome_img, .finder {
+  align-content: center;
+  border: 2px solid beige; }
+
+body {
+  background-color: beige;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+  text-rendering: optimizeLegibility;
+  font-size: 25px; }
+
+@media (max-width: 539px) {
+  body {
+    background-color: black;
+    color: beige; }
+
+  .finder {
+    border: 2px solid beige; } }
+.welcome_img {
+  width: auto;
+  margin-left: 350px; }
+
+.ex_tras {
+  margin-left: 350px; }
+  .ex_tras a {
+    text-decoration: none; }
+  .ex_tras a:hover {
+    color: firebrick; }
+  .ex_tras a:active {
+    color: orangered; }
+
+.finder {
+  font-weight: bold; }
+  .finder .find {
+    margin-left: 560px; }
+  .finder input {
+    border: 2px solid black; }
+
+/*# sourceMappingURL=styles.css.map */

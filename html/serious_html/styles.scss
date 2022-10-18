@@ -1,0 +1,62 @@
+%defaults {
+    align-content: center;
+    border: 2px solid beige;
+}
+
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-rendering: optimizeLegibility;
+    font-size: 25px;
+}
+@media(max-width : 539px) {
+    body{
+        background-color: black;
+        color: beige;      
+    }
+    .finder {
+        border:2px solid beige;    
+    }
+
+}
+
+
+
+.welcome_img {
+    // align-items: center;
+    @extend %defaults;
+    width:auto;
+    margin-left: 350px;
+    // margin-right: 500px;
+    
+
+}
+
+.ex_tras{  
+    margin-left: 350px;
+    a{
+        text-decoration: none;
+    }
+        a:hover {
+        color:firebrick;
+    }
+
+    a:active {
+        color: orangered;
+    }
+}
+
+.finder {
+    @extend %defaults;
+    font-weight:bold;
+   
+    // column-gap: 20px;
+    .find {
+        margin-left: 560px;
+    }
+    input{
+        border:2px solid black;
+    }
+
+}

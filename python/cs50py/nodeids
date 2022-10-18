@@ -1,0 +1,17 @@
+[
+  "test_bank.py::test_1",
+  "test_bank.py::test_2",
+  "test_bank.py::test_3",
+  "test_fuel.py::test_1",
+  "test_fuel.py::test_2",
+  "test_fuel.py::test_3",
+  "test_hello.py::test_argument",
+  "test_hello.py::test_default",
+  "test_plate.py::test_1",
+  "test_plate.py::test_2",
+  "test_plate.py::test_3",
+  "test_plate.py::test_4",
+  "test_twitter.py::test_1",
+  "test_twitter.py::test_2",
+  "test_twitter.py::test_3"
+]

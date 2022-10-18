@@ -1,0 +1,22 @@
+div {
+  font-size: 30px;
+  font-family: sans-serif Arial, Helvetica; }
+  div ul {
+    color: blue; }
+  div ol {
+    color: blue; }
+
+.error, .success {
+  font-size: 25px;
+  font-weight: bold;
+  border: 10px solid black;
+  padding: 20px;
+  margin: 20px; }
+
+.error {
+  background-color: red; }
+
+.success {
+  background-color: green; }
+
+/*# sourceMappingURL=variables.css.map */

@@ -1,0 +1,129 @@
+/* class selector *** */
+/* element selector */
+/* id selector ** */
+h1{
+    color:orange;
+    font-size:50px;
+}
+
+.header1 {
+    color:green;
+    font-size:20;
+}
+
+#header2{
+    color:blue;
+}
+
+body {
+    background-color: beige;
+    color: black;
+    /* font-weight:bold; */
+    font-family: sans-serif, Arial, Helvetica;
+    line-height: 2em;
+}
+
+.paragraph{
+    /* float: right; */
+
+    background-color: teal;
+    border:5px orange solid;
+    text-transform: capitalize;
+    background-image: url("monkey.jpg");
+}
+
+.container {
+    width: 80%;
+    margin: auto;    
+   
+    border: 10px solid black;
+    
+    /* margin: top right bottom left; */
+    /* letter-spacing, word spacing */
+
+}
+.box {
+    height:100px;
+    width: 100px;
+    padding:20px;
+    /* you can also use em instead of px, 1 em = current font size */
+    /* use % when 1 side is given for that side's size to be that % of the other given one */
+    margin:50px;
+    border:10px solid black;
+    background-color: beige;
+    
+}
+
+div ol li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:active {
+    color: green;
+}
+
+
+a:visited {
+    color: brown;
+}
+
+.list-1 {
+    border:1px white solid;
+    padding: 10px;
+    list-style: circle;
+}
+
+
+li {
+    border-bottom: blue dotted;
+    /* list-style-image:url('monkey.jpg') ; */
+}
+
+
+@media (min-width: 700px) {
+    body {
+        background-color: red;
+    }
+}
+/*  media  queries and flexbox for responsive web pages */
+@media (max-width: 699px) {
+    body {
+        background-color:orange;
+    }
+}
+#flex_div {
+    /* border: 10px solid black;
+     */
+    /* display: flex; */
+    /* flex-wrap:wrap; */
+    display: grid;
+    column-gap: 20px;
+    row-gap: 10px;
+    grid-template-columns: 200px 200px auto;
+}
+
+#flex_div div{
+    border:10px solid black;
+    background-color: coral;
+    font-size:20px;
+    padding: 20px;
+
+}
+
+.row .col-3{
+    border:10px solid black;
+}
+
+.text-center .align-items-start{
+    border: 10px solid black;
+}
