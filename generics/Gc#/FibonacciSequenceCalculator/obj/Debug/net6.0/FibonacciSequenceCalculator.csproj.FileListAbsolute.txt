@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\bin\Debug\net6.0\FibonacciSequenceCalculator.exe
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\bin\Debug\net6.0\FibonacciSequenceCalculator.deps.json
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\bin\Debug\net6.0\FibonacciSequenceCalculator.runtimeconfig.json
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\bin\Debug\net6.0\FibonacciSequenceCalculator.dll
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\bin\Debug\net6.0\FibonacciSequenceCalculator.pdb
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.dll
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\refint\FibonacciSequenceCalculator.dll
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.pdb
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\FibonacciSequenceCalculator.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\generics\Gc#\FibonacciSequenceCalculator\obj\Debug\net6.0\ref\FibonacciSequenceCalculator.dll

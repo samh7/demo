@@ -6,7 +6,7 @@ int main(){
     printf("\nand N is the power of R(K(pow(x, y)) + C) such that: \vy = pow(R(K(pow(x, y)) + C),N)\n");
     //R is the constant ,ultiplied ttp the wjhole equatuion
     int K, y,  C, R,N;
-    printf("enter value for K, y, C, and N R: ");
+    printf("enter value for K, y, C, N, and R: ");
     scanf("%d%d%d%d%d",&K,&y,&C,&R,&N);
     y+=1;
     if(C>0) 

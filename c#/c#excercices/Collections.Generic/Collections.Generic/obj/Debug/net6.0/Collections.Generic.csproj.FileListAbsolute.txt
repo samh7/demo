@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\bin\Debug\net6.0\Collections.Generic.exe
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\bin\Debug\net6.0\Collections.Generic.deps.json
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\bin\Debug\net6.0\Collections.Generic.runtimeconfig.json
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\bin\Debug\net6.0\Collections.Generic.dll
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\bin\Debug\net6.0\Collections.Generic.pdb
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.dll
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\refint\Collections.Generic.dll
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.pdb
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\Collections.Generic.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\Collections.Generic\Collections.Generic\obj\Debug\net6.0\ref\Collections.Generic.dll

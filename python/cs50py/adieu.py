@@ -5,7 +5,7 @@ def main():
     while True:
         try:
             user_in.append(input("Name: "))
-        except EOFError:
+        except KeyboardInterrupt:
             break
 
     print()

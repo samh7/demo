@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\bin\Debug\net6.0\TestDelegate.exe
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\bin\Debug\net6.0\TestDelegate.deps.json
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\bin\Debug\net6.0\TestDelegate.runtimeconfig.json
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\bin\Debug\net6.0\TestDelegate.dll
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\bin\Debug\net6.0\TestDelegate.pdb
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.dll
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\refint\TestDelegate.dll
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.pdb
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\TestDelegate.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\c#\c#excercices\TestDelegate\TestDelegate\obj\Debug\net6.0\ref\TestDelegate.dll

@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\bin\Debug\net6.0\Midnight.exe
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\bin\Debug\net6.0\Midnight.deps.json
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\bin\Debug\net6.0\Midnight.runtimeconfig.json
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\bin\Debug\net6.0\Midnight.dll
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\bin\Debug\net6.0\Midnight.pdb
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.dll
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\refint\Midnight.dll
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.pdb
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\Midnight.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\c#\Midnight\Midnight\obj\Debug\net6.0\ref\Midnight.dll

@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\bin\Release\net6.0\Adieu.exe
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\bin\Release\net6.0\Adieu.deps.json
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\bin\Release\net6.0\Adieu.runtimeconfig.json
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\bin\Release\net6.0\Adieu.dll
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\bin\Release\net6.0\Adieu.pdb
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.dll
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\refint\Adieu.dll
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.pdb
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\Adieu.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\c#\exs\Adieu\Adieu\obj\Release\net6.0\ref\Adieu.dll

@@ -1,0 +1,7 @@
+Ann, 100
+Benny, 102
+Carol, 214
+Darren, 129
+Sam, 201
+Alice, 245
+Alice, 245

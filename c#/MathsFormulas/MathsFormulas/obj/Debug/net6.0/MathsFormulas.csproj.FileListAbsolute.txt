@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\bin\Debug\net6.0\MathsFormulas.exe
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\bin\Debug\net6.0\MathsFormulas.deps.json
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\bin\Debug\net6.0\MathsFormulas.runtimeconfig.json
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\bin\Debug\net6.0\MathsFormulas.dll
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\bin\Debug\net6.0\MathsFormulas.pdb
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.dll
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\refint\MathsFormulas.dll
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.pdb
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\MathsFormulas.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\c#\MathsFormulas\MathsFormulas\obj\Debug\net6.0\ref\MathsFormulas.dll

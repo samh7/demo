@@ -1,0 +1,15 @@
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\bin\Debug\net6.0\bankBank.exe
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\bin\Debug\net6.0\bankBank.deps.json
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\bin\Debug\net6.0\bankBank.runtimeconfig.json
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\bin\Debug\net6.0\bankBank.dll
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\bin\Debug\net6.0\bankBank.pdb
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.csproj.AssemblyReference.cache
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.AssemblyInfoInputs.cache
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.AssemblyInfo.cs
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.csproj.CoreCompileInputs.cache
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.dll
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\refint\bankBank.dll
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.pdb
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\bankBank.genruntimeconfig.cache
+C:\Users\Cy\Dev\demo\c#\bankBank\bankBank\obj\Debug\net6.0\ref\bankBank.dll
